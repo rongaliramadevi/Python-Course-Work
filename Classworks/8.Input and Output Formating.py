@@ -11,11 +11,11 @@ l=list(map(int,input().split(','))) #list
 
 name=input("Enter name:")
 print(name)
-age=int(inpur("Enter age:"))
+age=int(input("Enter age:"))
 print(age)
 
-names=input()
-ruchitha, preethi, varsha
+names=input("ruchitha, preethi, varsha")
+
 print(names)
 
 names=list(map(int,input().split()))
@@ -40,4 +40,4 @@ print(a+b)
 print(a,b)
 print("a=",a,"b=",b)
 print(f'a={a}\nb={b}\nc={c}') #f strings
-print('a={}\nb={}\c={}'.format(a,b,c)) #formating
+print('a={}\nb={}\nc={}'.format(a,b,c)) #formating
