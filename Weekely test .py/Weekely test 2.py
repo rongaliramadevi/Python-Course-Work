@@ -89,3 +89,34 @@ for i in sen:
         res[i]=sen.count(i)
 
 print(res)
+
+#output
+'''
+Enter the date: 2025-12-10
+10/12/2025
+Enter the n:7
+Odd Winner
+Ente the string: Ramadevi
+r*m*d*v*
+r*m*d*v*
+Enter the prices: 12.5 30 7.25 99
+148.75
+99.0
+Enter the username: admit
+Enter the password: python123
+Invalid Login
+Enter the names:ram,ramu,ram,teja,ramu
+['ram', 'ramu', 'teja']
+Enter the n: 3
+rama 50
+sita 80
+teja 70
+sita
+Enter the sentencehello world python
+olleh dlrow nohtyp 
+1 0 4 0 7 0 9
+[1, 4, 7, 9]
+[1, 4, 7, 9]
+hello world
+{'h': 1, 'e': 1, 'l': 3, 'o': 2, 'w': 1, 'r': 1, 'd': 1}
+'''
